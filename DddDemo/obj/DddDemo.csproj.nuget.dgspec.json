@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\1\\Research\\DddDemo\\DddDemo\\DddDemo.csproj": {}
+  },
+  "projects": {
+    "C:\\1\\Research\\DddDemo\\DddDemo\\DddDemo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\1\\Research\\DddDemo\\DddDemo\\DddDemo.csproj",
+        "projectName": "DddDemo",
+        "projectPath": "C:\\1\\Research\\DddDemo\\DddDemo\\DddDemo.csproj",
+        "packagesPath": "C:\\Users\\aigumnov\\.nuget\\packages\\",
+        "outputPath": "C:\\1\\Research\\DddDemo\\DddDemo\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\aigumnov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://nexus.s.o3.ru/repository/pci-dss.nuget.hosted/": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.ozon.ru/nuget/": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
